@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');
+html,body{
+  height: 100%;
+  font-size: 1rem;
+}
+
+.gradient{
+  background: rgb(218, 201, 201);
+    background: linear-gradient(90deg, rgba(218, 201, 201, 1) 0%, rgba(238, 175, 230, 0) 35%, rgba(175, 121, 154, 1) 100%);
+}
+.page-header{
+  margin-top: 4rem;
+  font-size: 1.25rem;
+  color:black;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.feature{
+  color:black;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+.feature ul{
+  padding-left: 2rem;
+  list-style-type: normal;
+}
+.feature ul li{
+  padding-left: 2rem;
+  
+}
+footer{
+  color:blueviolet;
+  font-size:1rem;
+  margin: 0;
+  padding: 1rem;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
